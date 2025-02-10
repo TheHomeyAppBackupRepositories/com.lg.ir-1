@@ -4,7 +4,17 @@
       "id": "{{driverId}}:send_cmd",
       "title": {
         "en": "Send Command",
-        "nl": "Verzend Commando"
+        "nl": "Verzend Commando",
+        "da": "Send Kommando",
+        "de": "Befehl senden",
+        "es": "Enviar Comando",
+        "fr": "Envoyer Commande",
+        "it": "Invia Comando",
+        "no": "Send Kommando",
+        "sv": "Skicka Kommando",
+        "pl": "Wyślij Polecenie",
+        "ru": "Отправить команду",
+        "ko": "명령 보내기"
       },
       "args": [
         {
@@ -17,7 +27,17 @@
       "id": "{{driverId}}:send_cmd_number",
       "title": {
         "en": "Set Channel",
-        "nl": "Zet op Kanaal"
+        "nl": "Zet op Kanaal",
+        "da": "Indstil Kanal",
+        "de": "Kanal einstellen",
+        "es": "Establecer Canal",
+        "fr": "Définir Canal",
+        "it": "Imposta Canale",
+        "no": "Angi Kanal",
+        "sv": "Ställ in Kanal",
+        "pl": "Ustaw Kanał",
+        "ru": "Установить канал",
+        "ko": "채널 설정"
       },
       "args": [
         {

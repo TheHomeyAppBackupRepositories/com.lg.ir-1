@@ -2,10 +2,20 @@
   "_comment": "This file is generated. Please edit .homeycompose/app.json instead.",
   "id": "com.lg.ir",
   "name": {
-    "en": "LG TV",
-    "nl": "LG TV"
+    "en": "LG TV (IR)",
+    "nl": "LG TV (IR)",
+    "da": "LG TV (IR)",
+    "de": "LG TV (IR)",
+    "es": "LG TV (IR)",
+    "fr": "LG TV (IR)",
+    "it": "LG TV (IR)",
+    "no": "LG TV (IR)",
+    "sv": "LG TV (IR)",
+    "pl": "LG TV (IR)",
+    "ru": "LG TV (IR)",
+    "ko": "LG TV (IR)"
   },
-  "version": "3.0.4",
+  "version": "3.1.0",
   "sdk": 3,
   "compatibility": ">=5.0.0",
   "brandColor": "#AB234A",
@@ -14,7 +24,17 @@
   },
   "description": {
     "en": "Control your LG TV using Infrared.",
-    "nl": "Bestuur je LG TV met Infrarood."
+    "nl": "Bestuur je LG-tv met Infrarood.",
+    "da": "Styr din LG TV med infrarød.",
+    "de": "Steuere deinen LG-Fernseher mit Infrarot.",
+    "es": "Controla tu TV LG con infrarrojos.",
+    "fr": "Contrôlez votre TV LG avec infrarouge.",
+    "it": "Controlla la tua TV LG usando l'infrarosso.",
+    "no": "Kontroller LG-TV-en din ved hjelp av infrarød.",
+    "sv": "Styr din LG-TV med infrarött.",
+    "pl": "Steruj telewizorem LG za pomocą podczerwieni.",
+    "ru": "Управляйте вашим LG TV с помощью инфракрасного излучения.",
+    "ko": "LG TV를 적외선으로 제어하세요."
   },
   "category": "video",
   "images": {
@@ -66,11 +86,31 @@
           "options": {
             "title": {
               "en": "Connect your TV",
-              "nl": "Koppel je TV"
+              "nl": "Koppel je TV",
+              "da": "Tilslut dit TV",
+              "de": "Verbinden Sie Ihren Fernseher",
+              "es": "Conecta tu TV",
+              "fr": "Connectez votre TV",
+              "it": "Collega il tuo televisore",
+              "no": "Koble til TV-en din",
+              "sv": "Anslut din TV",
+              "pl": "Podłącz telewizor",
+              "ru": "Подключите ваш телевизор",
+              "ko": "TV 연결"
             },
             "instruction": {
-              "en": "Press next to connect your TV.",
-              "nl": "Druk op volgende om je TV te koppelen."
+              "en": "Press 'Continue' to add LG TV controls to your Homey.",
+              "nl": "Druk op 'Ga door' om LG-tv controls aan je Homey toe te voegen",
+              "da": "Tryk på 'Fortsæt' for at tilføje LG TV-kontroller til din Homey.",
+              "de": "Drücken Sie 'Weiter', um die LG TV-Steuerungen zu Ihrem Homey hinzuzufügen.",
+              "es": "Presiona 'Continuar' para agregar los controles de TV LG a tu Homey.",
+              "fr": "Appuyez sur 'Continuer' pour ajouter les commandes de TV LG à votre Homey.",
+              "it": "Premi 'Continua' per aggiungere i controlli LG TV al tuo Homey.",
+              "no": "Trykk 'Fortsett' for å legge til LG TV-kontroller til din Homey.",
+              "sv": "Tryck på 'Fortsätt' för att lägga till LG TV-kontroller till din Homey.",
+              "pl": "Naciśnij 'Kontynuuj', aby dodać sterowanie telewizorem LG do Homey.",
+              "ru": "Нажмите 'Продолжить', чтобы добавить элементы управления телевизором LG в Homey.",
+              "ko": "'계속'을 눌러 LG TV 제어를 Homey에 추가하세요."
             }
           }
         },
@@ -85,7 +125,7 @@
     "ir": {
       "lg": {
         "type": "prontohex",
-        "repetitions": 10,
+        "repetitions": 1,
         "cmds": {
           "POWER_TOGGLE": "0000 006D 0022 0002 0154 00A9 0014 0014 0014 0014 0014 0040 0014 0014 0014 0014 0014 0014 0014 0014 0014 0014 0014 0040 0014 0040 0014 0014 0014 0040 0014 0040 0014 0040 0014 0040 0014 0040 0014 0014 0014 0014 0014 0014 0014 0040 0014 0014 0014 0014 0014 0014 0014 0014 0014 0040 0014 0040 0014 0040 0014 0014 0014 0040 0014 0040 0014 0040 0014 0040 0014 0608 0154 0055 0014 0E4F",
           "POWER_ON": "0000 006d 0022 0002 0157 00ac 0015 0015 0015 0015 0015 0040 0015 0015 0015 0015 0015 0015 0015 0015 0015 0015 0015 0040 0015 0040 0015 0015 0015 0040 0015 0040 0015 0040 0015 0040 0015 0040 0015 0015 0015 0015 0015 0040 0015 0015 0015 0015 0015 0015 0015 0040 0015 0040 0015 0040 0015 0040 0015 0015 0015 0040 0015 0040 0015 0040 0015 0015 0015 0015 0015 0689 0157 0056 0015 0e94",

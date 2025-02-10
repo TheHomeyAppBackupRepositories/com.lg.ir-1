@@ -1,3 +1,3 @@
-Life's Good. En Life's Better als je Homey met je LG TV verbindt.
+Life's Good. En Life's Better als je Homey met je LG-tv verbindt.
 
-Homey kan je TV besturen via infrarood en je TV aan- en uitzetten, het kanaal wisselen en het volume instellen.
+Bestuur met Homey je tv via infrarood. Zet je tv aan en uit, wissel van kanaal en stel het volume in.
